@@ -6,5 +6,7 @@ Program_two.java is for question 2
 Group Members 
 
 122475 Amen Gemeda ICS B
+
 121425 Mwanza Shem ICS B
+
 123062 Ulridge Moses ICS B 
